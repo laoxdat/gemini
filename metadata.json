@@ -1,0 +1,6 @@
+{
+  "name": "P2P Media Loader Demo - WebRTC & HLS Stream Player",
+  "description": "Nền tảng phát video stream HLS hiệu năng cao kết hợp chia sẻ ngang hàng WebRTC (P2P Media Loader), tùy chỉnh tracker, máy chủ STUN/TURN và giám sát băng thông thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
